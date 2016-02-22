@@ -1,5 +1,5 @@
 {
-    "name": "mct/alfrescdoc-joomla",
+    "name": "mct/alfrescodoc-joomla",
     "description": "Alfresco Document in Joomla",
     "keywords": ["alfresco", "joomla", "alfresco joomla"],
     "license": "Apache License 2.0",
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "php": ">=5.4.0"
+        "ALFRESCO": ">=5.0.0"
     },
     "config": {
         "preferred-install": "dist"
