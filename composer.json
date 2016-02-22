@@ -1,0 +1,20 @@
+{
+    "name": "mct/alfrescdoc-joomla",
+    "description": "Alfresco Document in Joomla",
+    "keywords": ["alfresco", "joomla", "alfresco joomla"],
+    "license": "Apache License 2.0",
+    "type": "project",
+    "homepage": "https://www.majestic.com.au",
+    "authors": [
+        {
+            "name": "MajesticComputerTechnology",
+            "homepage": "https://www.majestic.com.au"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}
