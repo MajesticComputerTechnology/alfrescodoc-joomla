@@ -11,9 +11,7 @@
             "homepage": "http://www.majestic.com.au"
         }
     ],
-    "require": {
-        "ALFRESCO": ">=5.0.0"
-    },
-    "minimum-stability" : "dev",
-    "prefer-stable" : true
+    "config": {
+        "preferred-install": "dist"
+    }
 }
