@@ -1,6 +1,6 @@
 # AlfrescoDoc for Joomla
 
-[![Latest Stable Version](https://poser.pugx.org/mct/alfrescodoc-joomla/v/stable)](https://packagist.org/packages/mct/alfrescodoc-joomla) 
+[![Latest Stable Version](https://poser.pugx.org/mct/alfrescodoc-joomla/v/stable) ](https://packagist.org/packages/mct/alfrescodoc-joomla) 
 [![Total Downloads](https://poser.pugx.org/mct/alfrescodoc-joomla/downloads)](https://packagist.org/packages/mct/alfrescodoc-joomla) 
 [![Latest Unstable Version](https://poser.pugx.org/mct/alfrescodoc-joomla/v/unstable)](https://packagist.org/packages/mct/alfrescodoc-joomla) 
 [![License](https://poser.pugx.org/mct/alfrescodoc-joomla/license)](https://packagist.org/packages/mct/alfrescodoc-joomla)
