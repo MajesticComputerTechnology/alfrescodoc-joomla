@@ -23,6 +23,7 @@ AlfrescoDoc is a [Joomla](https://www.joomla.org) module to display document fro
 ## AlfrescoDoc requires
 
 - Alfresco 5.X with cmisatom binding (url like: http://alfresco:8080/alfresco/cmisatom)
+- Joomla at least: 3.0 
 - PHP with CURL and XML enabled
 
 Partial compatibility (browsing and retrieving objects and aspects is OK) with old Alfresco (under development) (url like http://alfresco:8080/alfresco/service/api/cmis)
