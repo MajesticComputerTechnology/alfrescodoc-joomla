@@ -47,13 +47,12 @@ A [Download ZIP](https://github.com/MajesticComputerTechnology/alfrescodoc-jooml
 
 And ZIP is developed in an optional directory of a local machine.
 
-
-## Copyright
-
-2016 [Majestic Computer Technology](http://majestic.com.au), All rights reserved.
+## Configuration
+![Alfrescodoc-joomla Configuration](http://dev.majestic.com.au/alfresco/wp-content/uploads/2016/02/alfresco-joomla-configuration.png)
 
 
+## License
 
-## Licenses
+Copyright 2016 [Majestic Computer Technology](http://majestic.com.au)
 
 [AlfrescoDoc](https://github.com/MajesticComputerTechnology/alfrescodoc-joomla) is open-sourced software licensed under the [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0)
