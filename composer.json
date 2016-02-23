@@ -2,7 +2,7 @@
     "name": "mct/alfrescodoc-joomla",
     "description": "Alfresco Document in Joomla",
     "keywords": ["alfresco", "joomla", "alfresco joomla"],
-    "license": "Apache License 2.0",
+    "license": "Apache-2.0",
     "type": "project",
     "homepage": "http://www.majestic.com.au",
     "authors": [
