@@ -37,7 +37,7 @@ Please open a command prompt and carry out the next command.
 
 ```sh
 $ cd <parent-of-an-install-directory>
-$ composer create-project cmt/alfrescodoc-joomla <an-install-directory>
+$ composer create-project alfrescodoc-joomla <an-install-directory>
 ```
 
 ### Source code is downloaded and installed.
@@ -46,11 +46,6 @@ A [Download ZIP](https://github.com/MajesticComputerTechnology/alfrescodoc-jooml
 
 And ZIP is developed in an optional directory of a local machine.
 
-Please open a command prompt and run following commands.
-
-```sh
-1. 
-```
 
 ## Copyright
 
