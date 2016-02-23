@@ -1,6 +1,9 @@
 # AlfrescoDoc for Joomla
 
-[![Latest Stable Version](https://poser.pugx.org/mct/alfrescodoc-joomla/v/stable)](https://packagist.org/packages/mct/alfrescodoc-joomla) [![Total Downloads](https://poser.pugx.org/mct/alfrescodoc-joomla/downloads)](https://packagist.org/packages/mct/alfrescodoc-joomla) [![Latest Unstable Version](https://poser.pugx.org/mct/alfrescodoc-joomla/v/unstable)](https://packagist.org/packages/mct/alfrescodoc-joomla) [![License](https://poser.pugx.org/mct/alfrescodoc-joomla/license)](https://packagist.org/packages/mct/alfrescodoc-joomla)
+[![Latest Stable Version](https://poser.pugx.org/mct/alfrescodoc-joomla/v/stable)](https://packagist.org/packages/mct/alfrescodoc-joomla) 
+[![Total Downloads](https://poser.pugx.org/mct/alfrescodoc-joomla/downloads)](https://packagist.org/packages/mct/alfrescodoc-joomla) 
+[![Latest Unstable Version](https://poser.pugx.org/mct/alfrescodoc-joomla/v/unstable)](https://packagist.org/packages/mct/alfrescodoc-joomla) 
+[![License](https://poser.pugx.org/mct/alfrescodoc-joomla/license)](https://packagist.org/packages/mct/alfrescodoc-joomla)
 
 
 
@@ -49,21 +52,12 @@ Please open a command prompt and run following commands.
 1. 
 ```
 
-Check to install.
-Once the command list is displayed, OK!
-
-```sh
-$ php artisan
-```
-
 ## Copyright
 
-2016 [Fumio Furukawa / 古川 文生](http://jumilla.me), All rights reserved.
+2016 [Majestic Computer Technology](http://majestic.com.au), All rights reserved.
 
 
 
 ## Licenses
 
-[WordPress+](https://github.com/jumilla/wordpress-plus) is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)  
-[Lumen framework](http://lumen.laravel.com) is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)  
-[WordPress](https://ja.wordpress.org) is open-sourced software licensed under the [– GNU General Public License –](https://ja.wordpress.org/gpl/)  
+[AlfrescoDoc](https://github.com/MajesticComputerTechnology/alfrescodoc-joomla) is open-sourced software licensed under the [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0)

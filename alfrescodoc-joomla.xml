@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
     <extension type="module" version="2.5.0" client="site" method="upgrade">
-        <name>alfrescdoc-joomla</name>
+        <name>alfrescodoc-joomla</name>
         <author>Nath Bunyapisitsopar</author>
         <creationDate>Feb 2016</creationDate>
         <copyright></copyright> 
@@ -12,8 +12,8 @@
 
 
         <files>
-            <filename>alfrescdoc-joomla.xml</filename>
-            <filename module="alfrescdoc-joomla">alfrescdoc-joomla.php</filename>
+            <filename>alfrescodoc-joomla.xml</filename>
+            <filename module="alfrescodoc-joomla">alfrescodoc-joomla.php</filename>
             <filename>index.html</filename>
             <filename>function.php</filename>
             <filename>Alfresco_CMIS_API.php</filename>

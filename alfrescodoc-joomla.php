@@ -11,4 +11,4 @@
     $docList = ModAlfrescoHelper::getDocList($url, $port, $userName, $password, $path);
     $alfTicket = ModAlfrescoHelper::getAlfTicket($url, $port, $userName, $password);
     $genPath = $url.":".$port."/share/proxy/alfresco/api/node/workspace/SpacesStore/";
-    require(JModuleHelper::getLayoutPath('alfrescdoc-joomla','default'));
+    require(JModuleHelper::getLayoutPath('alfrescodoc-joomla','default'));
