@@ -16,13 +16,13 @@ AlfrescoDoc is a [Joomla](https://www.joomla.org) module to display document fro
 
 ## Features
 
-- Easy dispaly document and folder metadata from ALFRESCO server.
-- Using ALFRESCO CMIS API
+- Easy dispaly document and folder metadata from Alfresco server.
+- Using Alfresco CMIS API
 - It's possible to control which metadata to display.
 
 ## AlfrescoDoc requires
 
-- ALFRESCO 5.X with cmisatom binding (url like: http://alfresco:8080/alfresco/cmisatom)
+- Alfresco 5.X with cmisatom binding (url like: http://alfresco:8080/alfresco/cmisatom)
 - PHP with CURL and XML enabled
 
 Partial compatibility (browsing and retrieving objects and aspects is OK) with old Alfresco (under development) (url like http://alfresco:8080/alfresco/service/api/cmis)
