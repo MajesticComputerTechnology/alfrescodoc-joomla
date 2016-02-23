@@ -10,7 +10,7 @@
  
 ## About AlfrescoDoc
 
-alfrescodoc is a [Joomla](https://www.joomla.org) module to display document from [Alfresco](https://www.alfresco.com) server powered by [Alfesco PHP CMIS CLIENT](https://github.com/fvettore/php-alf-cmis-api).
+AlfrescoDoc is a [Joomla](https://www.joomla.org) module to display document from [Alfresco](https://www.alfresco.com) server powered by [Alfesco PHP CMIS CLIENT](https://github.com/fvettore/php-alf-cmis-api).
  
 
 
