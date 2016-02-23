@@ -5,11 +5,6 @@
 [![Latest Unstable Version](https://poser.pugx.org/mct/alfrescodoc-joomla/v/unstable)](https://packagist.org/packages/mct/alfrescodoc-joomla) 
 [![License](https://poser.pugx.org/mct/alfrescodoc-joomla/license)](https://packagist.org/packages/mct/alfrescodoc-joomla)
 
-
-
- 
-## About AlfrescoDoc
-
 AlfrescoDoc is a [Joomla](https://www.joomla.org) module to display document from [Alfresco](https://www.alfresco.com) server powered by [Alfesco PHP CMIS CLIENT](https://github.com/fvettore/php-alf-cmis-api).
  
 
