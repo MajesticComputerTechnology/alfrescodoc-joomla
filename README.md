@@ -56,3 +56,5 @@ And ZIP is developed in an optional directory of a local machine.
 Copyright 2016 [Majestic Computer Technology](http://majestic.com.au)
 
 [AlfrescoDoc](https://github.com/MajesticComputerTechnology/alfrescodoc-joomla) is open-sourced software licensed under the [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0)
+
+[Alfresco PHP CMIS CLIENT](https://github.com/fvettore/php-alf-cmis-api) is open-sourced software licensed under the [Apache License v2.0](http://www.apache.org/licenses/LICENSE-2.0)
