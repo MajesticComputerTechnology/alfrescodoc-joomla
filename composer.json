@@ -11,7 +11,6 @@
             "homepage": "http://www.majestic.com.au"
         }
     ],
-    "config": {
-        "preferred-install": "dev"
-    }
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
