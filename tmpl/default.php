@@ -1,10 +1,10 @@
-<link rel="stylesheet" href="modules/mod_alfrescodocument/tmpl/css/style.css">
+<link rel="stylesheet" href="modules/alfrescodoc-joomla/tmpl/css/style.css">
 
 <div class="alf">
 
 <?php 
     $options = $params->get('options');
-     $render = "<div class='alf'>";
+     $render = "<div class='alf'>"; 
         foreach($docList as $doc){
             $downloadLink ="";
             if($doc->fileType === "cmis:folder"){
@@ -65,7 +65,7 @@
 
 
 
-<script src="modules/mod_alfrescodocument/tmpl/js/app.js"></script>
+<script src="modules/alfrescodoc-joomla/tmpl/js/app.js"></script>
 
 
 
