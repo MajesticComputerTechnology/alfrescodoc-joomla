@@ -28,12 +28,12 @@
         <config>
 
             <fields name="params">
-                <fieldset name="basic">
+                <fieldset name="basic"> 
                     <field name="cmisatomURL" type="text" default="http://example.com" label="Alfresco CMIS URL" description="http://example.com" size="100" />
                     <field name="alf_port" type="text" default="8080" label="Alfresco Port" description="8080" size="5" />
                     <field name="alf_path" type="text" default="3c7b04d3-ff71-4820-ac85-d80a1a152970" label="Alfresco Folder ID" description="3c7b04d3-ff71-4820-ac85-d80a1a152970" size="100" />
                     <field name="alf_username" type="text" default="admin" label="Username" description="admin" size="100" />
-                    <field name="alf_password" type="text" default="password" label="Password" description="password" size="100" />
+                    <field name="alf_password" type="password" default="password" label="Password" description="password" size="100" />
                     
                     <field name="thumbnail" type="checkbox" label="Show Thumbnail" value="1" />
                     <field name="title" type="checkbox" label="Show Title" value="1" />
