@@ -8,7 +8,7 @@
         foreach($docList as $doc){
             $downloadLink ="";
             if($doc->fileType === "cmis:folder"){
-                $downloadLink = $url.":".$port."/share/page/site/projects/documentlibrary#filter=path%7C%2F".$doc->fileName;
+                $downloadLink = $url.":".$port."/share/page/context/shared/folder-details?nodeRef=workspace://SpacesStore/".$doc->path;
             }else{
                 $downloadLink = $params->get('cmisatomURL').':'.$params->get('alf_port').'/alfresco/service/api/node/content/workspace/SpacesStore/'.$doc->path.'/?a=true&amp;alf_ticket='.$alfTicket;
             }
