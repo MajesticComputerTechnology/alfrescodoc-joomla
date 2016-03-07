@@ -11,7 +11,7 @@ AlfrescoDoc is a [Joomla](https://www.joomla.org) module to display document fro
 
 ## Features
 
-- Easy dispaly document and folder metadata from Alfresco server.
+- Easy to display document and folder metadata from Alfresco server.
 - Using Alfresco CMIS API
 - It's possible to control which metadata to display.
 
