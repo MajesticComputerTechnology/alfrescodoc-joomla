@@ -9,7 +9,6 @@ class ModAlfrescoHelper{
         $docList = array();
         $repoObject=new CMISalfObject($url.":".$port."/alfresco/cmisatom",$userName,$password,$path);
         $repoObject->listContent();
-        $repoObject->listContent();
         for($i=0; $i<count($repoObject->containedObjects); $i++){
             $docObject = new stdClass();
             $docObject->fileType = $repoObject->containedObjects[$i]->properties['cmis:objectTypeId'];
